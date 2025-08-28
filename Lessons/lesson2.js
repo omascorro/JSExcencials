@@ -11,7 +11,4 @@ var messageToPrint2 = `The Price for your ${itemName} is $${price}`;
 console.log(messageToPrint2);
  
 
-//basic arithmetic  
-var a = 10;
-var b = 5;
 
